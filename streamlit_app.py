@@ -1,9 +1,11 @@
 import streamlit
 
-streamlit.title('This is a test application')
+streamlit.title('My Mom's New Healthy Dinner')
 
-streamlit.header('Header value')
-streamlit.text("Text Value1")
-streamlit.text("Text Value2")
-streamlit.text("Text Value3")
-streamlit.text("Text Value4")
+streamlit.header('Breakfast Favorites')
+streamlit.text("🥣 Omega 3 & Blueberry Oat Meal")
+streamlit.text("🥗 Kale, Spinach & Rocket Smoothie")
+streamlit.text("🐔 Hard-boiled Free-Range Egg")
+streamlit.text("🥑🍞 Avocado Toast")
+
+  
